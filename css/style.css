@@ -9864,3 +9864,14 @@ a.text-dark:hover, a.text-dark:focus {
   padding: 0;
   list-style-type: none;
 }
+
+
+#large-image{
+
+background-image: url(/img/header-gallery.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+
+}
