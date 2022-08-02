@@ -9889,6 +9889,13 @@ background-position: center;
 	height: auto;
 }
 
+#google {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
 
 iframe {
 
