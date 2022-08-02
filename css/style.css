@@ -9875,3 +9875,24 @@ background-position: center;
 
 
 }
+
+#whatsapp {
+	position: fixed;
+    left: 20px;
+    width: 50px;
+    bottom: 20px;
+    z-index: 1000;
+}
+
+#whatsapp img {
+	width: 100%;
+	height: auto;
+}
+
+
+iframe {
+
+  width: 50%;
+  height: 500px;
+
+}
