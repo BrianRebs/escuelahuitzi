@@ -3578,7 +3578,7 @@ input[type="button"].btn-block {
   height: 1.25rem;
   opacity: 0;
 }
-
+re
 .custom-control-input:checked ~ .custom-control-label::before {
   color: #fff;
   border-color: #004f82;
